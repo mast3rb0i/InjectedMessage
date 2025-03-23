@@ -1,6 +1,6 @@
 {
     "SoftwareVersion": "1.6",
-    "SoftwareUrl":"",
-    "Status":"False",
-    "Changelog":"[+] added blank"
+    "SoftwareUrl":"https://cdn.discordapp.com/attachments/1347524593539354644/1353402681405997199/v1.6.rar?ex=67e185f8&is=67e03478&hm=194fb6ca458a1803ac196e03489e069b757758e2a7ea8a377bcd9f72287a9d9f&",
+    "Status":"True",
+    "Changelog":"[+] Added ScriptHub, added supAPI v1.3 and supAPICloudy v1.2, fixed AutoInject"
 }
