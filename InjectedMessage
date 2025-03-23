@@ -65,4 +65,4 @@ end
 
 coroutine.wrap(AnimateFrame)()
 
-print(\"[supQ]: Attached to Client! Enjoy using supAPI (Nezur) | https://discord.com/invite/BbhUSYPXNH\")
+print("[supQ]: Attached to Client! Enjoy using supAPI (Nezur) | https://discord.com/invite/BbhUSYPXNH")
