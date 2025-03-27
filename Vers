@@ -1,6 +1,8 @@
 {
-    "SoftwareVersion": "1.6.2",
-    "SoftwareUrl":"https://cdn.discordapp.com/attachments/1109557229138485258/1354756573045588069/supQ.zip?ex=67e672e1&is=67e52161&hm=4faef02e61e58c0c321963451950e7a12025e1b20dcb158a5831df664f504059&",
+    "SoftwareVersion": "1.6.3",
+    "SoftwareUrl":"https://cdn.discordapp.com/attachments/1109557229138485258/1354824632884269167/supQ.zip?ex=67e6b243&is=67e560c3&hm=4a74c2faf3c55c7aedb924fe8764d023fe82b2108dfbc6d3a5509ce734117510&",
     "Status":"True",
-    "Changelog":"[+] Updated to the latest version of Roblox (version-5a6b6797f4e04078)"
+    "Changelog":"[+] Updated to the latest version of Roblox (version-5a6b6797f4e04078)
+                 [+] Fixed GetUsername() function
+                 [+] Fixed supAPICloudy"
 }
