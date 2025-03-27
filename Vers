@@ -1,6 +1,6 @@
 {
-    "SoftwareVersion": "1.6.1",
-    "SoftwareUrl":"https://cdn.discordapp.com/attachments/1352688713158623423/1354457333920694606/supQ.zip?ex=67e55c31&is=67e40ab1&hm=570574a1bc8668f1a1871cfd793e04adf7dc14519502baf2f61650175144e290&",
+    "SoftwareVersion": "1.6.2",
+    "SoftwareUrl":"https://cdn.discordapp.com/attachments/1109557229138485258/1354755958097576086/supQ.zip?ex=67e6724e&is=67e520ce&hm=7b0d327462ae260bc1fb8f1a4f693c722fe7bf19a3a624d9110642b9ff28cb3a&",
     "Status":"True",
-    "Changelog":"[+] supAPI does not work, Use supAPICloudy. Keep in mind that this is for only a fix!"
+    "Changelog":"[+] Updated to the latest version of Roblox (version-5a6b6797f4e04078)"
 }
