@@ -2,5 +2,5 @@
     "SoftwareVersion": "1.6.4",
     "SoftwareUrl":"https://download1591.mediafire.com/7uwqvua5mexgDcpdB1ysI0BQNXof4R0PH-MWbJsrAnf40irh3BaGyI82UyLtMtn1cdNzHw9PuLNi1MCPUGiviITvBXVnNZ6TKi2zvguhpQzTQYZpvU-ESUSVf8Ul3SUyyPvGFvTQQsSNHgy6-PYe-lwFGVs3W_oiJU8h0W5DBvuqaQ/g3r90g8rkpxtitr/supQ.zip",
     "Status":"True",
-    "Changelog":"[+] Fixed supAPI Injection error"
+    "Changelog":"[+] Fixed supAPI Injection method."
 }
