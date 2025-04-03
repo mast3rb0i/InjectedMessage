@@ -1,6 +1,6 @@
 {
-    "SoftwareVersion": "1.6.5",
-    "SoftwareUrl":"https://cdn.discordapp.com/attachments/1357330764034867300/1357431187307495727/supQ.zip?ex=67f02dce&is=67eedc4e&hm=fd19d3ddcb5a45f2d80c68632178434a068b105362431cad5bc674ab44c54840&",
+    "SoftwareVersion": "1.6.6",
+    "SoftwareUrl":"https://cdn.discordapp.com/attachments/1357330764034867300/1357433325375193332/supQ.zip?ex=67f02fcc&is=67eede4c&hm=f2556d371bed33199fd78469b79228af3aae4fca30b7bb9a309a3d7e1c4c3c51&",
     "Status":"True",
-    "Changelog":"[+] Fixed download link"
+    "Changelog":"[+] Updated to the latest Roblox version (version-347f4ac346734391)"
 }
