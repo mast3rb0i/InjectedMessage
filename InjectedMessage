@@ -65,4 +65,4 @@ end
 
 coroutine.wrap(AnimateFrame)()
 
-print("[supQ]: Attached to Client! Enjoy using supQXAPI (Xeno) | https://dsc.gg/supq")
+print("[supQ]: Attached to Client! Enjoy using supQXAPI (xeno) | https://dsc.gg/supq")
