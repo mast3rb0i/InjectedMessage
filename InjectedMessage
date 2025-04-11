@@ -29,7 +29,7 @@ TextLabel.BorderSizePixel = 0
 TextLabel.Position = UDim2.new(0, 0, 0.079, 0)
 TextLabel.Size = UDim2.new(0, 325, 0, 51)
 TextLabel.Font = Enum.Font.GothamSemibold
-TextLabel.Text = "[supAPI]"
+TextLabel.Text = "[supQXAPI]"
 TextLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
 TextLabel.TextSize = 35.000
 
@@ -65,4 +65,4 @@ end
 
 coroutine.wrap(AnimateFrame)()
 
-print("[supQ]: Attached to Client! Enjoy using supAPI (Nezur) | https://discord.com/invite/BbhUSYPXNH")
+print("[supQ]: Attached to Client! Enjoy using supQXAPI (Xeno) | https://discord.com/invite/BbhUSYPXNH")
