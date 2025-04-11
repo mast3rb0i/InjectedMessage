@@ -1,7 +1,7 @@
 {
-    "SoftwareVersion": "1.7",
-    "SoftwareUrl":"https://cdn.discordapp.com/attachments/1357330764034867300/1358381525950922842/supQ_Beta_v1.7.zip?ex=67f3a2e1&is=67f25161&hm=49e806ff71d5d44600fb54656a13bd1584bbfae5405db8fdc96e7a5ba854ecc3&",
+    "SoftwareVersion": "1.9.9",
+    "SoftwareUrl":"https://www.supq.xyz/download/supQEARLYACCESS.zip",
     "Status":"True",
-    "Changelog":"[+] Scrapped supAPICloudy and moved to supAPIXeno
-[+] Updated to the latest build of Roblox (version-347f4ac346734391)"
+    "Changelog":"[+] supQ Early Access
+[+] Some features may not work"
 }
